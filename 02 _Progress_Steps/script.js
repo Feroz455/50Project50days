@@ -30,6 +30,8 @@ const update = function () {
   });
 };
 
+
+
 next.addEventListener("click", function () {
   ++currentActive;
   if (currentActive > circles.length) {
