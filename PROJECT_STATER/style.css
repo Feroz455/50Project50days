@@ -1,14 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-*{
-    box-sizing: border-box;
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;400&display=swap");
+
+* {
+  box-sizing: border-box;
 }
-body{
-    display: flex;
-    font-family: 'Roboto', sans-serif;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    overflow: hidden;
-    margin: 0;
+body {
+  display: flex;
+  font-family: "Mulish", sans-serif;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
 }
