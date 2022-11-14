@@ -48,6 +48,7 @@ body {
   border-radius: 5px;
   padding: 1rem 2rem;
   margin: 0.5rem;
+  width: 200px;
 }
 .toast.info {
   color: rebeccapurple;
