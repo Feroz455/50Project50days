@@ -8,7 +8,7 @@ This is the main repository for all of the projects in the course.
 | #02 | [Progress Steps](https://feroz455.github.io/50Project50days/02%20_Progress_Steps/)                         | [GO >>](https://feroz455.github.io/50Project50days/02%20_Progress_Steps/)           |
 | #03 | [Rotating Navigation Animation](https://feroz455.github.io/50Project50days/03_Rotating_Navigation/)        | [GO >>](https://feroz455.github.io/50Project50days/03_Rotating_Navigation/)         |
 | #04 | [Hidden Search Widget](https://feroz455.github.io/50Project50days/04_Hidden_Search/)                       | [GO >>](https://feroz455.github.io/50Project50days/04_Hidden_Search/)               |
-| #05 | [Blurry Loading](https://feroz455.github.io/50Project50days/blurry-loading)                                | [GO >>](https://50projects50days.com/projects/blurry-loading/)                      |
+| #05 | [Blurry Loading](https://feroz455.github.io/50Project50days/blurry-loading)                                | [GO >>](https://feroz455.github.io/50Project50days/blurry-loading)                  |
 | #06 | [Scroll Animation](https://feroz455.github.io/50Project50days/06_Scroll_Animation)                         | [GO >>](https://feroz455.github.io/50Project50days/06_Scroll_Animation)             |
 | #07 | [Split Landing Page](https://feroz455.github.io/50Project50days/07_Split_Landing_Page)                     | [GO >>](https://feroz455.github.io/50Project50days/07_Split_Landing_Page)           |
 | #08 | [Form Wave](https://feroz455.github.io/50Project50days/08_Form_Wave_Animation)                             | [GO >>](https://feroz455.github.io/50Project50days/08_Form_Wave_Animation)          |
